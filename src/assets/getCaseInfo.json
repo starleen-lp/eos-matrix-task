@@ -1,0 +1,56 @@
+[
+  {
+    "workUnitId": 2155,
+    "debtor": "банк 8",
+    "date": "Wed Sep 20 1972 12:42:57 GMT+0200 (Eastern European Standard Time)",
+    "package": "PPPPP",
+    "boughtAmoung": {
+      "amount": 6470,
+      "currency": "BGN"
+    },
+    "paidAmount": {
+      "amount": 5200,
+      "currency": "BGN"
+    },
+    "dueAmount": {
+      "amount": 1064,
+      "currency": "BGN"
+    }
+  },
+  {
+    "workUnitId": 3575,
+    "debtor": "банк 8",
+    "date": "Sat Aug 20 1988 21:33:47 GMT+0300 (Eastern European Summer Time)",
+    "package": "PPPPP",
+    "boughtAmoung": {
+      "amount": 8642,
+      "currency": "BGN"
+    },
+    "paidAmount": {
+      "amount": 4924,
+      "currency": "BGN"
+    },
+    "dueAmount": {
+      "amount": 158,
+      "currency": "BGN"
+    }
+  },
+  {
+    "workUnitId": 3225,
+    "debtor": "банк 3",
+    "date": "Wed Mar 20 1974 02:25:25 GMT+0200 (Eastern European Standard Time)",
+    "package": "PPPPP",
+    "boughtAmoung": {
+      "amount": 7564,
+      "currency": "BGN"
+    },
+    "paidAmount": {
+      "amount": 5145,
+      "currency": "BGN"
+    },
+    "dueAmount": {
+      "amount": 329,
+      "currency": "BGN"
+    }
+  }
+]

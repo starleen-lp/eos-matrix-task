@@ -1,0 +1,187 @@
+[
+  {
+    "workUnitId": "0a3b5d8b-3033-4c3c-9c96-725ad6665443",
+    "entityType": "43ec76a6-611d-4742-9c57-a1743187ff66",
+    "status": "c3fda9ef-e7b7-4171-8db9-6614f2d8da21",
+    "key": 31,
+    "date": "2017-02-08T06:06:40 -02:00",
+    "type": "5eab9976-614d-4933-baf5-54eb3b3fa15d",
+    "court": "ЧСИ - 624",
+    "bailiffName": "Woodard Key",
+    "debtors": [
+      {
+        "workUnitId": "cc6b3080-4bf0-4a4b-a6db-3df7c4190e10",
+        "name": "Castro Leonard"
+      },
+      {
+        "workUnitId": "489b7d21-973c-4964-8d07-e970fa415a03",
+        "name": "Everett Chavez"
+      }
+    ],
+    "otherPeople": [
+      {
+        "workUnitId": "35f4d8c3-675a-49bb-9654-954c4acf0fae",
+        "name": "Patton Walton"
+      },
+      {
+        "workUnitId": "f048a829-b752-423d-9644-b053a6c8d3b5",
+        "name": "Vinson Leon"
+      }
+    ],
+    "cases": [
+      {
+        "workUnitId": "6e302bab-23f8-4a22-950b-3bc078b2f156",
+        "package": "Случай - 433",
+        "status": 0
+      }
+    ]
+  },
+  {
+    "workUnitId": "0184c5b2-6e96-4899-8fc6-34be8c32ac3a",
+    "entityType": "44204bb5-ee9d-44c3-ba75-9707b1db7ec6",
+    "status": "0d9b92bd-4aa8-458e-b768-f8b126bef265",
+    "key": 38,
+    "date": "2021-09-15T07:12:36 -03:00",
+    "type": "b9800eba-3631-4b85-9844-2e41da69df65",
+    "court": "ЧСИ - 191",
+    "bailiffName": "Decker Hays",
+    "debtors": [
+      {
+        "workUnitId": "1b547c06-b329-47b3-8de7-7ef65a674e3e",
+        "name": "Cornelia Sutton"
+      },
+      {
+        "workUnitId": "dfb9cce0-dc27-4fa6-8452-80ca81fea18d",
+        "name": "Sears Beck"
+      }
+    ],
+    "otherPeople": [
+      {
+        "workUnitId": "ef7f6431-6b3b-4e86-8667-3d1e342659b7",
+        "name": "Janet Johnston"
+      },
+      {
+        "workUnitId": "e9468fd6-ad2f-4987-a7dd-fa8794e16151",
+        "name": "Audra Clemons"
+      }
+    ],
+    "cases": [
+      {
+        "workUnitId": "1ea8c24d-0ee3-4199-bd45-76ce8ac3d8c9",
+        "package": "Случай - 142",
+        "status": 0
+      }
+    ]
+  },
+  {
+    "workUnitId": "bc9ab692-85df-42b8-96d5-098c1507c41e",
+    "entityType": "20fda1a7-3072-435a-ae38-40fa587de3b9",
+    "status": "a0b91e3a-da8f-4ff7-af3c-d15734541e6b",
+    "key": 24,
+    "date": "2014-05-17T03:14:23 -03:00",
+    "type": "da697ca0-9df5-41f0-b73e-a1ab69278b83",
+    "court": "ЧСИ - 895",
+    "bailiffName": "Helena Cruz",
+    "debtors": [
+      {
+        "workUnitId": "e8cf4e65-c919-4ef4-8662-04d9fc7b505d",
+        "name": "Chambers Romero"
+      },
+      {
+        "workUnitId": "bca91923-e770-488a-9e5c-bc35e33f5bc7",
+        "name": "Rogers Glass"
+      }
+    ],
+    "otherPeople": [
+      {
+        "workUnitId": "085a14de-bf06-4996-be7b-26ce9150dffb",
+        "name": "Dillon Dickerson"
+      },
+      {
+        "workUnitId": "a3e4c0c2-4269-4078-9d5c-3e148f40ac21",
+        "name": "Barbara Clay"
+      }
+    ],
+    "cases": [
+      {
+        "workUnitId": "d5cb8d8a-bbf2-4259-a825-da1d365b8479",
+        "package": "Случай - 465",
+        "status": 0
+      }
+    ]
+  },
+  {
+    "workUnitId": "853e3fe9-5107-483c-89da-e338a466912d",
+    "entityType": "791da028-5e93-44af-b8f9-b781cdfce53f",
+    "status": "3cdbfaa4-3fc1-4c17-98ee-c4ea95790170",
+    "key": 27,
+    "date": "2017-02-01T07:26:55 -02:00",
+    "type": "16968b72-b933-4c37-baf6-25fd8eed387f",
+    "court": "ЧСИ - 614",
+    "bailiffName": "Sweeney Battle",
+    "debtors": [
+      {
+        "workUnitId": "a2097af0-3cfc-4572-8bbe-5c05d81ff89a",
+        "name": "Strickland Mckenzie"
+      },
+      {
+        "workUnitId": "ff8693fd-12a1-4925-9091-dd408305774e",
+        "name": "Gibbs Dunn"
+      }
+    ],
+    "otherPeople": [
+      {
+        "workUnitId": "7e3cfd25-624d-477c-8180-00a2d1a0496e",
+        "name": "Stout Webster"
+      },
+      {
+        "workUnitId": "44840e97-5f19-4d0f-96ef-aae76a1c8e80",
+        "name": "Therese Bradley"
+      }
+    ],
+    "cases": [
+      {
+        "workUnitId": "0206b8ca-5a1b-4d70-9e98-dd810350af00",
+        "package": "Случай - 381",
+        "status": 1
+      }
+    ]
+  },
+  {
+    "workUnitId": "87608115-572b-4e08-85a8-d99f96ec8d8d",
+    "entityType": "3bbcf987-12ab-46c7-b3e4-bab39bb4f863",
+    "status": "9fff8592-7855-4a97-90ff-9a659c8dabe3",
+    "key": 29,
+    "date": "2019-10-20T04:54:46 -03:00",
+    "type": "a349b6c1-3a03-457e-a003-79ec71e2d073",
+    "court": "ЧСИ - 622",
+    "bailiffName": "Leblanc Campbell",
+    "debtors": [
+      {
+        "workUnitId": "905da307-f8ad-4465-8e77-ceafd6731d8c",
+        "name": "Sawyer Francis"
+      },
+      {
+        "workUnitId": "7a66b8d2-9826-447c-bb04-1cea78878506",
+        "name": "Santiago Fuller"
+      }
+    ],
+    "otherPeople": [
+      {
+        "workUnitId": "f96d73bc-adad-4e3d-99de-4faaefc4ce04",
+        "name": "Esperanza Spencer"
+      },
+      {
+        "workUnitId": "03d31baa-bb8b-46e8-8c95-61d6c009a51b",
+        "name": "Constance Parsons"
+      }
+    ],
+    "cases": [
+      {
+        "workUnitId": "db7186cd-d2b2-4a30-ba76-d3f8b2c0c5f1",
+        "package": "Случай - 263",
+        "status": 1
+      }
+    ]
+  }
+]

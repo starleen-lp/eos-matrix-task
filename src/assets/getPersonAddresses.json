@@ -1,0 +1,32 @@
+{
+  "addresses": [
+    {
+      "id": "ce2dffbe-2489-49d1-843d-c02ca33abec7",
+      "settlementName": "Shelby",
+      "zipCode": 1038,
+      "address": "Stryker Street",
+      "dateAdded": "2018-10-14T07:54:33 -03:00"
+    },
+    {
+      "id": "3ae6eae4-6dcb-443d-9829-855f9e906bfc",
+      "settlementName": "Century",
+      "zipCode": 5313,
+      "address": "Montgomery Place",
+      "dateAdded": "2020-03-21T10:25:47 -02:00"
+    },
+    {
+      "id": "4d2a35e5-2cc5-4b4f-b866-a297e503f879",
+      "settlementName": "Stockwell",
+      "zipCode": 2156,
+      "address": "Creamer Street",
+      "dateAdded": "2018-04-08T06:36:02 -03:00"
+    },
+    {
+      "id": "897028c7-fb7c-44b2-a369-452933797027",
+      "settlementName": "Alleghenyville",
+      "zipCode": 2314,
+      "address": "Anthony Street",
+      "dateAdded": "2014-02-17T02:35:04 -02:00"
+    }
+  ]
+}
